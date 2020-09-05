@@ -3,7 +3,7 @@ This simple webpage is about **Vecta corp** which is a 24/7 365 _turnkey vSoluti
 
 > This page is being developed as part of CS648 course at [SDSU extended studies](https://ces.sdsu.edu/science-computers-technology/advanced-certificate-web-and-mobile-applications-development).
 
-Currently we just have:
+Currently we have:  
 * index.html
 * README.md
 
